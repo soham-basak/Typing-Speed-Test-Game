@@ -14,9 +14,9 @@ You can play the game online by visiting the following link: [Demo](Coming)
 
 ## Technologies Used
 
-- HTML `<i class="material-icons">language</i>`
-- CSS `<i class="material-icons">palette</i>`
-- JavaScript `<i class="material-icons">code</i>`
+- HTML
+- CSS 
+- JavaScript 
 
 ## Installation
 
