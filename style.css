@@ -51,6 +51,36 @@ body{
 }
 
 
+.typing-box p span.correct{
+    color: #56964f;
+}
+
+
+.typing-box p span.incorrect{
+    color: #cd3439;
+    background: #ffc0cb;
+    outline: 1px solid #fff;
+    border-radius: 4px;
+}
+
+
+.typing-box p span.active{
+    color: #17a2b8;
+}
+
+
+.typing-box p span.active::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 2px;
+    width: 100%;
+    background: #17a2b8;
+
+}
+
+
 .content-box .content{
     display: flex;
     justify-content: space-between;
