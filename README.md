@@ -10,7 +10,7 @@ Welcome to the Typing Speed Test Game! This is a simple web-based game that meas
 
 ## Demo
 
-You can play the game online by visiting the following link: [Demo](Coming)
+You can play the game online by visiting the following link: [Demo](https://typingspeedtestbydex.netlify.app/)
 
 ## Technologies Used
 
